@@ -1,1 +1,1 @@
-# Workshops
+# Python Workshops
